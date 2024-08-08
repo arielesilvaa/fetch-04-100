@@ -119,5 +119,3 @@ if (!postId) {
     postComment(comment);
   });
 }
-
-// Desenvolvido no curso
